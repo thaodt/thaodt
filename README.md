@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my playground! Just call me AR.
+### Hi there 👋 Welcome to my playground! Just call me Amidamaru.
 
 I'm a Core Principal Engineer from Vietnam <img src="https://static.dwcdn.net/css/flag-icons/flags/4x3/vn.svg" alt="vn" height="30"/> , use Python & Rust mainly, love open sources.
 
@@ -18,8 +18,6 @@ I'm a Core Principal Engineer from Vietnam <img src="https://static.dwcdn.net/cs
 
 <div>
   <a href="https://twitter.com/dreamsparkis" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:aldineguyon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/thaodt/thaodt/blob/output/github-contribution-grid-snake.svg)
+  <a href = "mailto:ardtimeit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
