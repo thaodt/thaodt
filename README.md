@@ -9,6 +9,7 @@ I'm a Core Principal Engineer from Vietnam <img src="https://static.dwcdn.net/cs
 <div style="display: inline_block"><br>
   <img align="center" alt="thaodt-rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   <img align="center" alt="thaodt-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="thaodt-nix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-plain.svg">
   <img align="center" alt="thaodt-nvim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   <img align="center" alt="thaodt-scala" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-plain.svg">
   <img align="center" alt="thaodt-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
