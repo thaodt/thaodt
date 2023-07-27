@@ -18,8 +18,8 @@ jobs:
       # Commit the changes
       - name: Commit files
         run: |
-          git config user.email "${{ secrets.GH_EMAIL }}"
-          git config user.name "${{ secrets.GH_USER }}"
+          git config user.email "$(git log -n 1 --pretty=format:%an)" 
+          git config user.name "$(git log -n 1 --pretty=format:%ae)"
           git add -A
           git commit -m ":snake: Updates Snake Contribution Animation"
           git push
