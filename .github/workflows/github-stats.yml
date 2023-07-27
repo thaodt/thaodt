@@ -20,7 +20,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
           committer_message: "Generated new metrics for Profile: ${filename}"
-          committer_gist: "1eaef21799d1d62623cbfb229769d1c0"
+          committer_gist: "1db1d598a9e4550fa45eaede87135b3b"
           output_action: "gist"
           plugin_followup: yes
           plugin_followup_sections: repositories
