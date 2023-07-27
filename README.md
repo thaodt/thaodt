@@ -4,7 +4,9 @@
   <b>Visitors</b><br>
   <img src="https://profile-counter.glitch.me/thaodt/count.svg" />
 </p>
-I'm a Core Principal Engineer from <img src="https://static.dwcdn.net/css/flag-icons/flags/4x3/vn.svg" alt="vn" height="30"/> , mainly coding Rust at day and night, love open sources. Reinvents the wheel occasionally and sometimes creates obscure stuff.
+
+I'm a Core Principal Engineer from <img src="https://static.dwcdn.net/css/flag-icons/flags/4x3/vn.svg" alt="vn" height="25"/> , 
+mainly coding Rust at day and night, love open sources. Reinvents the wheel occasionally and sometimes creates obscure stuff.
 
 <br>
 
