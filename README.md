@@ -48,7 +48,7 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
   <summary><b>👨‍💻 Stats</b></summary>
   <p align="center">
     <a>
-      <img align="center" src="https://gist.githubusercontent.com/thaodt/1eaef21799d1d62623cbfb229769d1c0/raw/2221cb18be61658dee5f24439946dcaae8dbd023/github-metrics.svg"/>
+      <img align="center" src="https://gist.githubusercontent.com/thaodt/1db1d598a9e4550fa45eaede87135b3b/raw/97f3e5e943703e61b223dbc8cfa33ae9a5beb97b/github-metrics.svg"/>
     </a>
   </p>
 </details>
