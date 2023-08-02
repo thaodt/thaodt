@@ -39,12 +39,12 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
 2. 🗣 Commented on [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309#issuecomment-1661478386) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
-3. 🎉 Merged PR [#582](https://github.com/inko-lang/inko/pull/582) in [inko-lang/inko](https://github.com/inko-lang/inko)
-4. 💪 Opened PR [#225](https://github.com/near/near-cli-rs/pull/225) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
-5. 🔒 Closed issue [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
-6. 🗣 Commented on [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309#issuecomment-1661478386) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
-7. 🎉 Merged PR [#582](https://github.com/inko-lang/inko/pull/582) in [inko-lang/inko](https://github.com/inko-lang/inko)
-8. 💪 Opened PR [#225](https://github.com/near/near-cli-rs/pull/225) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
+3. 💪 Opened PR [#3](https://github.com/LitheumOrg/LitheumMobileWallet/pull/3) in [LitheumOrg/LitheumMobileWallet](https://github.com/LitheumOrg/LitheumMobileWallet)
+4. ❗ Opened issue [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
+5. 🎉 Merged PR [#14](https://github.com/thaodt/feeds-reader/pull/14) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+6. 🗣 Commented on [#225](https://github.com/near/near-cli-rs/pull/225#issuecomment-1637907319) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
+7. 🗣 Commented on [#225](https://github.com/near/near-cli-rs/pull/225#issuecomment-1632268188) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
+8. 🗣 Commented on [#543](https://github.com/inko-lang/inko/issues/543#issuecomment-1630095318) in [inko-lang/inko](https://github.com/inko-lang/inko)
 <!--END_SECTION:activity-->
   </p>
 </details>
