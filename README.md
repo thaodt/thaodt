@@ -37,8 +37,8 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/LitheumOrg/LitheumMobileWallet/pull/3) in [LitheumOrg/LitheumMobileWallet](https://github.com/LitheumOrg/LitheumMobileWallet)
-2. ❗ Opened issue [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
+1. 🔒 Closed issue [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
+2. 🗣 Commented on [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309#issuecomment-1661478386) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
 <!--END_SECTION:activity-->
   </p>
 </details>
