@@ -37,14 +37,14 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
     <p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
-2. 🗣 Commented on [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309#issuecomment-1661478386) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
-3. 💪 Opened PR [#3](https://github.com/LitheumOrg/LitheumMobileWallet/pull/3) in [LitheumOrg/LitheumMobileWallet](https://github.com/LitheumOrg/LitheumMobileWallet)
-4. ❗ Opened issue [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
-5. 🎉 Merged PR [#14](https://github.com/thaodt/feeds-reader/pull/14) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-6. 🗣 Commented on [#225](https://github.com/near/near-cli-rs/pull/225#issuecomment-1637907319) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
-7. 🗣 Commented on [#225](https://github.com/near/near-cli-rs/pull/225#issuecomment-1632268188) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
-8. 🗣 Commented on [#543](https://github.com/inko-lang/inko/issues/543#issuecomment-1630095318) in [inko-lang/inko](https://github.com/inko-lang/inko)
+1. 🗣 Commented on [#3](https://github.com/LitheumOrg/LitheumMobileWallet/pull/3#issuecomment-1663393923) in [LitheumOrg/LitheumMobileWallet](https://github.com/LitheumOrg/LitheumMobileWallet)
+2. 🔒 Closed issue [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
+3. 🗣 Commented on [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309#issuecomment-1661478386) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
+4. 💪 Opened PR [#3](https://github.com/LitheumOrg/LitheumMobileWallet/pull/3) in [LitheumOrg/LitheumMobileWallet](https://github.com/LitheumOrg/LitheumMobileWallet)
+5. ❗ Opened issue [#1309](https://github.com/fzyzcjy/flutter_rust_bridge/issues/1309) in [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
+6. 🎉 Merged PR [#14](https://github.com/thaodt/feeds-reader/pull/14) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+7. 🗣 Commented on [#225](https://github.com/near/near-cli-rs/pull/225#issuecomment-1637907319) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
+8. 🗣 Commented on [#225](https://github.com/near/near-cli-rs/pull/225#issuecomment-1632268188) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
 <!--END_SECTION:activity-->
   </p>
 </details>
