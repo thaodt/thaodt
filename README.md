@@ -45,6 +45,8 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
 6. 🎉 Merged PR [#14](https://github.com/thaodt/feeds-reader/pull/14) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
 7. 🗣 Commented on [#225](https://github.com/near/near-cli-rs/pull/225#issuecomment-1637907319) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
 8. 🗣 Commented on [#225](https://github.com/near/near-cli-rs/pull/225#issuecomment-1632268188) in [near/near-cli-rs](https://github.com/near/near-cli-rs)
+9. 🎉 Merged PR [#582](https://github.com/inko-lang/inko/pull/582) in [inko-lang/inko](https://github.com/inko-lang/inko)
+10. 💪 Opened PR [#582](https://github.com/inko-lang/inko/pull/582) in [inko-lang/inko](https://github.com/inko-lang/inko)
 <!--END_SECTION:activity-->
   </p>
 </details>
