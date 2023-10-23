@@ -37,16 +37,16 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#896](https://github.com/feldera/feldera/issues/896#issuecomment-1773019861) in [feldera/feldera](https://github.com/feldera/feldera)
-2. 🗣 Commented on [#896](https://github.com/feldera/feldera/issues/896#issuecomment-1772919030) in [feldera/feldera](https://github.com/feldera/feldera)
-3. 💪 Opened PR [#1](https://github.com/thaodt/pctp-pnars/pull/1) in [thaodt/pctp-pnars](https://github.com/thaodt/pctp-pnars)
-4. 🗣 Commented on [#543](https://github.com/inko-lang/inko/issues/543#issuecomment-1766022133) in [inko-lang/inko](https://github.com/inko-lang/inko)
-5. 🎉 Merged PR [#1](https://github.com/thaodt/rconcurrency-stuff/pull/1) in [thaodt/rconcurrency-stuff](https://github.com/thaodt/rconcurrency-stuff)
-6. 💪 Opened PR [#1](https://github.com/thaodt/rconcurrency-stuff/pull/1) in [thaodt/rconcurrency-stuff](https://github.com/thaodt/rconcurrency-stuff)
-7. 💪 Opened PR [#2526](https://github.com/GreptimeTeam/greptimedb/pull/2526) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-8. 🎉 Merged PR [#15](https://github.com/thaodt/feeds-reader/pull/15) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-9. 🗣 Commented on [#2369](https://github.com/GreptimeTeam/greptimedb/issues/2369#issuecomment-1733117000) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-10. 🗣 Commented on [#3](https://github.com/LitheumOrg/LitheumMobileWallet/pull/3#issuecomment-1676710543) in [LitheumOrg/LitheumMobileWallet](https://github.com/LitheumOrg/LitheumMobileWallet)
+1. 🎉 Merged PR [#1](https://github.com/thaodt/notebook/pull/1) in [thaodt/notebook](https://github.com/thaodt/notebook)
+2. 💪 Opened PR [#1](https://github.com/thaodt/notebook/pull/1) in [thaodt/notebook](https://github.com/thaodt/notebook)
+3. 🎉 Merged PR [#1](https://github.com/thaodt/dots/pull/1) in [thaodt/dots](https://github.com/thaodt/dots)
+4. 💪 Opened PR [#1](https://github.com/thaodt/dots/pull/1) in [thaodt/dots](https://github.com/thaodt/dots)
+5. 🗣 Commented on [#896](https://github.com/feldera/feldera/issues/896#issuecomment-1773019861) in [feldera/feldera](https://github.com/feldera/feldera)
+6. 🗣 Commented on [#896](https://github.com/feldera/feldera/issues/896#issuecomment-1772919030) in [feldera/feldera](https://github.com/feldera/feldera)
+7. 💪 Opened PR [#1](https://github.com/thaodt/pctp-pnars/pull/1) in [thaodt/pctp-pnars](https://github.com/thaodt/pctp-pnars)
+8. 🗣 Commented on [#543](https://github.com/inko-lang/inko/issues/543#issuecomment-1766022133) in [inko-lang/inko](https://github.com/inko-lang/inko)
+9. 🎉 Merged PR [#1](https://github.com/thaodt/rconcurrency-stuff/pull/1) in [thaodt/rconcurrency-stuff](https://github.com/thaodt/rconcurrency-stuff)
+10. 💪 Opened PR [#1](https://github.com/thaodt/rconcurrency-stuff/pull/1) in [thaodt/rconcurrency-stuff](https://github.com/thaodt/rconcurrency-stuff)
 <!--END_SECTION:activity-->
   </p>
 </details>
