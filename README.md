@@ -37,16 +37,16 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#551](https://github.com/tailcallhq/tailcall/pull/551) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)
-2. 💪 Opened PR [#623](https://github.com/inko-lang/inko/pull/623) in [inko-lang/inko](https://github.com/inko-lang/inko)
-3. 🗣 Commented on [#414](https://github.com/tailcallhq/tailcall/issues/414#issuecomment-1779454102) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)
-4. 🗣 Commented on [#125](https://github.com/cloudwego/volo/issues/125#issuecomment-1778575211) in [cloudwego/volo](https://github.com/cloudwego/volo)
-5. 🎉 Merged PR [#2](https://github.com/thaodt/notebook/pull/2) in [thaodt/notebook](https://github.com/thaodt/notebook)
-6. 💪 Opened PR [#2](https://github.com/thaodt/notebook/pull/2) in [thaodt/notebook](https://github.com/thaodt/notebook)
-7. 🎉 Merged PR [#1](https://github.com/thaodt/notebook/pull/1) in [thaodt/notebook](https://github.com/thaodt/notebook)
-8. 💪 Opened PR [#1](https://github.com/thaodt/notebook/pull/1) in [thaodt/notebook](https://github.com/thaodt/notebook)
-9. 🎉 Merged PR [#1](https://github.com/thaodt/dots/pull/1) in [thaodt/dots](https://github.com/thaodt/dots)
-10. 💪 Opened PR [#1](https://github.com/thaodt/dots/pull/1) in [thaodt/dots](https://github.com/thaodt/dots)
+1. 🗣 Commented on [#627](https://github.com/inko-lang/inko/issues/627#issuecomment-1784393591) in [inko-lang/inko](https://github.com/inko-lang/inko)
+2. 💪 Opened PR [#551](https://github.com/tailcallhq/tailcall/pull/551) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)
+3. 💪 Opened PR [#623](https://github.com/inko-lang/inko/pull/623) in [inko-lang/inko](https://github.com/inko-lang/inko)
+4. 🗣 Commented on [#414](https://github.com/tailcallhq/tailcall/issues/414#issuecomment-1779454102) in [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall)
+5. 🗣 Commented on [#125](https://github.com/cloudwego/volo/issues/125#issuecomment-1778575211) in [cloudwego/volo](https://github.com/cloudwego/volo)
+6. 🎉 Merged PR [#2](https://github.com/thaodt/notebook/pull/2) in [thaodt/notebook](https://github.com/thaodt/notebook)
+7. 💪 Opened PR [#2](https://github.com/thaodt/notebook/pull/2) in [thaodt/notebook](https://github.com/thaodt/notebook)
+8. 🎉 Merged PR [#1](https://github.com/thaodt/notebook/pull/1) in [thaodt/notebook](https://github.com/thaodt/notebook)
+9. 💪 Opened PR [#1](https://github.com/thaodt/notebook/pull/1) in [thaodt/notebook](https://github.com/thaodt/notebook)
+10. 🎉 Merged PR [#1](https://github.com/thaodt/dots/pull/1) in [thaodt/dots](https://github.com/thaodt/dots)
 <!--END_SECTION:activity-->
   </p>
 </details>
