@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/thaodt/count.svg" />
 </p>
 
-I'm a Core Principal Engineer from <img src="https://static.dwcdn.net/css/flag-icons/flags/4x3/vn.svg" alt="vn" height="25"/> , 
+I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/flag-icons/flags/4x3/vn.svg" alt="vn" height="25"/> , 
 mainly coding Rust at day and night, love open sources. Reinvents the wheel occasionally and sometimes creates obscure stuff.
 
 <br>
@@ -15,10 +15,10 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
 
 <div style="display: inline_block"><br>
   <img align="center" alt="thaodt-nvim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
-  <img align="center" alt="thaodt-rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" alt="thaodt-rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="center" alt="thaodt-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="thaodt-nix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-plain.svg">  
-  <img align="center" alt="thaodt-lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg">
+  <img align="center" alt="thaodt-lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
   <img align="center" alt="thaodt-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="thaodt-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
