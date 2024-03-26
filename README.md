@@ -37,16 +37,16 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2014871961) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-2. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2014706536) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-3. 🗣 Commented on [#267](https://github.com/rosenpass/rosenpass/pull/267#issuecomment-2011197523) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
-4. 🎉 Merged PR [#18](https://github.com/thaodt/feeds-reader/pull/18) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-5. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-1996287616) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-6. 🗣 Commented on [#204](https://github.com/informalsystems/hermes-sdk/issues/204#issuecomment-1993833017) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-7. 🗣 Commented on [#242](https://github.com/rosenpass/rosenpass/issues/242#issuecomment-1970276129) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
-8. 🎉 Merged PR [#17](https://github.com/thaodt/feeds-reader/pull/17) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-9. 🗣 Commented on [#83](https://github.com/rosenpass/rosenpass/issues/83#issuecomment-1916003726) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
-10. 🗣 Commented on [#83](https://github.com/rosenpass/rosenpass/issues/83#issuecomment-1912404930) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
+1. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2019992860) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+2. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2014871961) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+3. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2014706536) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+4. 🗣 Commented on [#267](https://github.com/rosenpass/rosenpass/pull/267#issuecomment-2011197523) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
+5. 🎉 Merged PR [#18](https://github.com/thaodt/feeds-reader/pull/18) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+6. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-1996287616) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+7. 🗣 Commented on [#204](https://github.com/informalsystems/hermes-sdk/issues/204#issuecomment-1993833017) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+8. 🗣 Commented on [#242](https://github.com/rosenpass/rosenpass/issues/242#issuecomment-1970276129) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
+9. 🎉 Merged PR [#17](https://github.com/thaodt/feeds-reader/pull/17) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+10. 🗣 Commented on [#83](https://github.com/rosenpass/rosenpass/issues/83#issuecomment-1916003726) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
 <!--END_SECTION:activity-->
   </p>
 </details>
