@@ -37,16 +37,16 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2123824551) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-2. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2123817749) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-3. 🎉 Merged PR [#22](https://github.com/thaodt/feeds-reader/pull/22) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-4. 🎉 Merged PR [#19](https://github.com/thaodt/feeds-reader/pull/19) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-5. 🎉 Merged PR [#21](https://github.com/thaodt/feeds-reader/pull/21) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-6. 🎉 Merged PR [#20](https://github.com/thaodt/feeds-reader/pull/20) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-7. 💪 Opened PR [#231](https://github.com/informalsystems/hermes-sdk/pull/231) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-8. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2022532041) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-9. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2019992860) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-10. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2014871961) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+1. 🗣 Commented on [#231](https://github.com/informalsystems/hermes-sdk/pull/231#issuecomment-2126206138) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+2. ❌ Closed PR [#231](https://github.com/informalsystems/hermes-sdk/pull/231) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+3. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2123824551) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+4. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2123817749) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+5. 🎉 Merged PR [#22](https://github.com/thaodt/feeds-reader/pull/22) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+6. 🎉 Merged PR [#19](https://github.com/thaodt/feeds-reader/pull/19) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+7. 🎉 Merged PR [#21](https://github.com/thaodt/feeds-reader/pull/21) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+8. 🎉 Merged PR [#20](https://github.com/thaodt/feeds-reader/pull/20) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+9. 💪 Opened PR [#231](https://github.com/informalsystems/hermes-sdk/pull/231) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+10. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2022532041) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
 <!--END_SECTION:activity-->
   </p>
 </details>
