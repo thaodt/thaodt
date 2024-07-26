@@ -37,16 +37,16 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/5) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
-2. 🎉 Merged PR [#1](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/1) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
-3. 🗣 Commented on [#367](https://github.com/informalsystems/hermes-sdk/pull/367#issuecomment-2249859702) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-4. 🎉 Merged PR [#14](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/14) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
-5. 🎉 Merged PR [#24](https://github.com/thaodt/feeds-reader/pull/24) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-6. 🎉 Merged PR [#23](https://github.com/thaodt/feeds-reader/pull/23) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-7. 💪 Opened PR [#367](https://github.com/informalsystems/hermes-sdk/pull/367) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-8. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2151481273) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-9. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2149188476) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-10. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2133210336) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+1. 🗣 Commented on [#393](https://github.com/informalsystems/hermes-sdk/issues/393#issuecomment-2251940840) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+2. 🎉 Merged PR [#5](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/5) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
+3. 🎉 Merged PR [#1](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/1) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
+4. 🗣 Commented on [#367](https://github.com/informalsystems/hermes-sdk/pull/367#issuecomment-2249859702) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+5. 🎉 Merged PR [#14](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/14) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
+6. 🎉 Merged PR [#24](https://github.com/thaodt/feeds-reader/pull/24) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+7. 🎉 Merged PR [#23](https://github.com/thaodt/feeds-reader/pull/23) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+8. 💪 Opened PR [#367](https://github.com/informalsystems/hermes-sdk/pull/367) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+9. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2151481273) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+10. 🗣 Commented on [#214](https://github.com/informalsystems/hermes-sdk/issues/214#issuecomment-2149188476) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
 <!--END_SECTION:activity-->
   </p>
 </details>
