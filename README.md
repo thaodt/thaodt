@@ -37,15 +37,15 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#27](https://github.com/radumarias/syncoxiders/issues/27) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
-2. ❗ Opened issue [#26](https://github.com/radumarias/syncoxiders/issues/26) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
-3. ❗ Opened issue [#25](https://github.com/radumarias/syncoxiders/issues/25) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
-4. 🎉 Merged PR [#25](https://github.com/thaodt/feeds-reader/pull/25) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-5. 🗣 Commented on [#2](https://github.com/thaodt/dots/pull/2#issuecomment-2342929266) in [thaodt/dots](https://github.com/thaodt/dots)
-6. 🎉 Merged PR [#2](https://github.com/thaodt/dots/pull/2) in [thaodt/dots](https://github.com/thaodt/dots)
-7. 💪 Opened PR [#2](https://github.com/thaodt/dots/pull/2) in [thaodt/dots](https://github.com/thaodt/dots)
-8. 💪 Opened PR [#405](https://github.com/informalsystems/hermes-sdk/pull/405) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-9. 🗣 Commented on [#367](https://github.com/informalsystems/hermes-sdk/pull/367#issuecomment-2288261433) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+1. ❌ Closed PR [#367](https://github.com/informalsystems/hermes-sdk/pull/367) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+2. 🗣 Commented on [#6](https://github.com/radumarias/syncoxiders/issues/6#issuecomment-2513403127) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
+3. ❗ Opened issue [#27](https://github.com/radumarias/syncoxiders/issues/27) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
+4. ❗ Opened issue [#26](https://github.com/radumarias/syncoxiders/issues/26) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
+5. ❗ Opened issue [#25](https://github.com/radumarias/syncoxiders/issues/25) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
+6. 🎉 Merged PR [#25](https://github.com/thaodt/feeds-reader/pull/25) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+7. 🗣 Commented on [#2](https://github.com/thaodt/dots/pull/2#issuecomment-2342929266) in [thaodt/dots](https://github.com/thaodt/dots)
+8. 🎉 Merged PR [#2](https://github.com/thaodt/dots/pull/2) in [thaodt/dots](https://github.com/thaodt/dots)
+9. 💪 Opened PR [#2](https://github.com/thaodt/dots/pull/2) in [thaodt/dots](https://github.com/thaodt/dots)
 10. 🗣 Commented on [#393](https://github.com/informalsystems/hermes-sdk/issues/393#issuecomment-2251940840) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
 <!--END_SECTION:activity-->
   </p>
