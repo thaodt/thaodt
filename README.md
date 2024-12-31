@@ -37,16 +37,16 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#405](https://github.com/informalsystems/hermes-sdk/pull/405#issuecomment-2522161511) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-2. 🗣 Commented on [#6](https://github.com/radumarias/syncoxiders/issues/6#issuecomment-2513857871) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
-3. ❌ Closed PR [#367](https://github.com/informalsystems/hermes-sdk/pull/367) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
-4. 🗣 Commented on [#6](https://github.com/radumarias/syncoxiders/issues/6#issuecomment-2513403127) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
-5. ❗ Opened issue [#27](https://github.com/radumarias/syncoxiders/issues/27) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
-6. ❗ Opened issue [#26](https://github.com/radumarias/syncoxiders/issues/26) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
-7. ❗ Opened issue [#25](https://github.com/radumarias/syncoxiders/issues/25) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
-8. 🎉 Merged PR [#25](https://github.com/thaodt/feeds-reader/pull/25) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-9. 🗣 Commented on [#2](https://github.com/thaodt/dots/pull/2#issuecomment-2342929266) in [thaodt/dots](https://github.com/thaodt/dots)
-10. 🎉 Merged PR [#2](https://github.com/thaodt/dots/pull/2) in [thaodt/dots](https://github.com/thaodt/dots)
+1. 🎉 Merged PR [#26](https://github.com/thaodt/feeds-reader/pull/26) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+2. 🎉 Merged PR [#15](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/15) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
+3. 🎉 Merged PR [#13](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/13) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
+4. 🎉 Merged PR [#9](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/9) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
+5. 🎉 Merged PR [#10](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/10) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
+6. 🎉 Merged PR [#11](https://github.com/thaodt/substrate-dao-on-chain-gov-sys/pull/11) in [thaodt/substrate-dao-on-chain-gov-sys](https://github.com/thaodt/substrate-dao-on-chain-gov-sys)
+7. 🗣 Commented on [#405](https://github.com/informalsystems/hermes-sdk/pull/405#issuecomment-2522161511) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+8. 🗣 Commented on [#6](https://github.com/radumarias/syncoxiders/issues/6#issuecomment-2513857871) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
+9. ❌ Closed PR [#367](https://github.com/informalsystems/hermes-sdk/pull/367) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+10. 🗣 Commented on [#6](https://github.com/radumarias/syncoxiders/issues/6#issuecomment-2513403127) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
 <!--END_SECTION:activity-->
   </p>
 </details>
