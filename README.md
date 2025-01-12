@@ -1,13 +1,14 @@
 ### Hi there 👋 Welcome to my playground! Just call me Amidamaru.
 
-<p align="center">
+<!-- <p align="center">
   <b>Visitors</b><br>
   <img src="https://profile-counter.glitch.me/thaodt/count.svg" />
-</p>
+</p> -->
 
 I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/flag-icons/flags/4x3/vn.svg" alt="vn" height="25"/> , 
-mainly coding Rust at day and night, love open sources. Reinvents the wheel occasionally and sometimes creates obscure stuff.
+love open sources. Reinvents the wheel occasionally and sometimes creates obscure stuff.
 
+I'm currently playing with embedded systems (with Rust of course), I loved disassembling and messing with these things since I was a kid, so why not dig deeper into it? 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaodt&layout=compact&theme=gotham&cache_seconds=86400)](https://github.com/thaodt/thaodt)
@@ -16,6 +17,7 @@ mainly coding Rust at day and night, love open sources. Reinvents the wheel occa
 <div style="display: inline_block"><br>
   <img align="center" alt="thaodt-nvim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   <img align="center" alt="thaodt-rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+  <img align="center" alt="thaodt-ocaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
   <img align="center" alt="thaodt-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="thaodt-nix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-plain.svg">  
   <img align="center" alt="thaodt-lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
