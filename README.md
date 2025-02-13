@@ -39,10 +39,10 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/jamesmunns/postcard-spec-ng/issues/2) in [jamesmunns/postcard-spec-ng](https://github.com/jamesmunns/postcard-spec-ng)
-2. 🎉 Merged PR [#1](https://github.com/thaodt/cattener/pull/1) in [thaodt/cattener](https://github.com/thaodt/cattener)
-3. 💪 Opened PR [#1](https://github.com/thaodt/cattener/pull/1) in [thaodt/cattener](https://github.com/thaodt/cattener)
-4. 🗣 Commented on [#405](https://github.com/informalsystems/hermes-sdk/pull/405#issuecomment-2522161511) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
+1. 🗣 Commented on [#2](https://github.com/jamesmunns/postcard-spec-ng/issues/2#issuecomment-2655351313) in [jamesmunns/postcard-spec-ng](https://github.com/jamesmunns/postcard-spec-ng)
+2. ❗ Opened issue [#2](https://github.com/jamesmunns/postcard-spec-ng/issues/2) in [jamesmunns/postcard-spec-ng](https://github.com/jamesmunns/postcard-spec-ng)
+3. 🎉 Merged PR [#1](https://github.com/thaodt/cattener/pull/1) in [thaodt/cattener](https://github.com/thaodt/cattener)
+4. 💪 Opened PR [#1](https://github.com/thaodt/cattener/pull/1) in [thaodt/cattener](https://github.com/thaodt/cattener)
 5. 🗣 Commented on [#6](https://github.com/radumarias/syncoxiders/issues/6#issuecomment-2513857871) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
 6. ❌ Closed PR [#367](https://github.com/informalsystems/hermes-sdk/pull/367) in [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk)
 7. 🗣 Commented on [#6](https://github.com/radumarias/syncoxiders/issues/6#issuecomment-2513403127) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
