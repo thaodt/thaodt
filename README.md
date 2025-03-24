@@ -39,12 +39,12 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/rosenpass/rosenpass/issues/83#issuecomment-2712788884) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
-2. 🗣 Commented on [#25](https://github.com/OneVariable/poststation-util/issues/25#issuecomment-2712780706) in [OneVariable/poststation-util](https://github.com/OneVariable/poststation-util)
-3. 🎉 Merged PR [#27](https://github.com/thaodt/feeds-reader/pull/27) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-4. 🎉 Merged PR [#2](https://github.com/thaodt/libp2p-netcomms/pull/2) in [thaodt/libp2p-netcomms](https://github.com/thaodt/libp2p-netcomms)
-5. 💪 Opened PR [#2](https://github.com/thaodt/libp2p-netcomms/pull/2) in [thaodt/libp2p-netcomms](https://github.com/thaodt/libp2p-netcomms)
-6. 🗣 Commented on [#27](https://github.com/OneVariable/poststation-util/pull/27#issuecomment-2664556245) in [OneVariable/poststation-util](https://github.com/OneVariable/poststation-util)
+1. 🎉 Merged PR [#28](https://github.com/thaodt/feeds-reader/pull/28) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+2. 🗣 Commented on [#83](https://github.com/rosenpass/rosenpass/issues/83#issuecomment-2712788884) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
+3. 🗣 Commented on [#25](https://github.com/OneVariable/poststation-util/issues/25#issuecomment-2712780706) in [OneVariable/poststation-util](https://github.com/OneVariable/poststation-util)
+4. 🎉 Merged PR [#27](https://github.com/thaodt/feeds-reader/pull/27) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+5. 🎉 Merged PR [#2](https://github.com/thaodt/libp2p-netcomms/pull/2) in [thaodt/libp2p-netcomms](https://github.com/thaodt/libp2p-netcomms)
+6. 💪 Opened PR [#2](https://github.com/thaodt/libp2p-netcomms/pull/2) in [thaodt/libp2p-netcomms](https://github.com/thaodt/libp2p-netcomms)
 7. 🗣 Commented on [#25](https://github.com/OneVariable/poststation-util/issues/25#issuecomment-2660880851) in [OneVariable/poststation-util](https://github.com/OneVariable/poststation-util)
 8. 💪 Opened PR [#27](https://github.com/OneVariable/poststation-util/pull/27) in [OneVariable/poststation-util](https://github.com/OneVariable/poststation-util)
 9. 🗣 Commented on [#217](https://github.com/jamesmunns/postcard/issues/217#issuecomment-2655440697) in [jamesmunns/postcard](https://github.com/jamesmunns/postcard)
