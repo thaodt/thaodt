@@ -39,8 +39,8 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/thaodt/feeds-reader/pull/28) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-2. 🗣 Commented on [#83](https://github.com/rosenpass/rosenpass/issues/83#issuecomment-2712788884) in [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
+1. 💪 Opened PR [#5](https://github.com/ezex-io/ezex-core/pull/5) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+2. 🎉 Merged PR [#28](https://github.com/thaodt/feeds-reader/pull/28) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
 3. 🗣 Commented on [#25](https://github.com/OneVariable/poststation-util/issues/25#issuecomment-2712780706) in [OneVariable/poststation-util](https://github.com/OneVariable/poststation-util)
 4. 🎉 Merged PR [#27](https://github.com/thaodt/feeds-reader/pull/27) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
 5. 🎉 Merged PR [#2](https://github.com/thaodt/libp2p-netcomms/pull/2) in [thaodt/libp2p-netcomms](https://github.com/thaodt/libp2p-netcomms)
