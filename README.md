@@ -39,16 +39,16 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/thaodt/redis-stream-bus/pull/1) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
-2. 🎉 Merged PR [#2](https://github.com/thaodt/redis-stream-bus/pull/2) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
-3. 💪 Opened PR [#1](https://github.com/thaodt/redis-stream-bus/pull/1) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
-4. 🗣 Commented on [#31](https://github.com/ezex-io/boilerplate/pull/31#issuecomment-2824590726) in [ezex-io/boilerplate](https://github.com/ezex-io/boilerplate)
-5. 💪 Opened PR [#6](https://github.com/ezex-io/ezex-kms/pull/6) in [ezex-io/ezex-kms](https://github.com/ezex-io/ezex-kms)
-6. 💪 Opened PR [#30](https://github.com/ezex-io/boilerplate/pull/30) in [ezex-io/boilerplate](https://github.com/ezex-io/boilerplate)
-7. 🗣 Commented on [#12](https://github.com/ezex-io/ezex-core/pull/12#issuecomment-2820910788) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-8. 💪 Opened PR [#12](https://github.com/ezex-io/ezex-core/pull/12) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-9. 🗣 Commented on [#11](https://github.com/ezex-io/ezex-core/issues/11#issuecomment-2812399668) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-10. 💪 Opened PR [#7](https://github.com/ezex-io/ezex-core/pull/7) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+1. 🎉 Merged PR [#29](https://github.com/thaodt/feeds-reader/pull/29) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+2. ❌ Closed PR [#1](https://github.com/thaodt/redis-stream-bus/pull/1) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
+3. 🎉 Merged PR [#2](https://github.com/thaodt/redis-stream-bus/pull/2) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
+4. 💪 Opened PR [#1](https://github.com/thaodt/redis-stream-bus/pull/1) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
+5. 🗣 Commented on [#31](https://github.com/ezex-io/boilerplate/pull/31#issuecomment-2824590726) in [ezex-io/boilerplate](https://github.com/ezex-io/boilerplate)
+6. 💪 Opened PR [#6](https://github.com/ezex-io/ezex-kms/pull/6) in [ezex-io/ezex-kms](https://github.com/ezex-io/ezex-kms)
+7. 💪 Opened PR [#30](https://github.com/ezex-io/boilerplate/pull/30) in [ezex-io/boilerplate](https://github.com/ezex-io/boilerplate)
+8. 🗣 Commented on [#12](https://github.com/ezex-io/ezex-core/pull/12#issuecomment-2820910788) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+9. 💪 Opened PR [#12](https://github.com/ezex-io/ezex-core/pull/12) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+10. 🗣 Commented on [#11](https://github.com/ezex-io/ezex-core/issues/11#issuecomment-2812399668) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
 <!--END_SECTION:activity-->
   </p>
 </details>
