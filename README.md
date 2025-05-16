@@ -39,16 +39,16 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ezex-io/redis-stream-bus/pull/8) in [ezex-io/redis-stream-bus](https://github.com/ezex-io/redis-stream-bus)
-2. 💪 Opened PR [#7](https://github.com/ezex-io/redis-stream-bus/pull/7) in [ezex-io/redis-stream-bus](https://github.com/ezex-io/redis-stream-bus)
-3. 💪 Opened PR [#3](https://github.com/ezex-io/serde-redis/pull/3) in [ezex-io/serde-redis](https://github.com/ezex-io/serde-redis)
-4. 🎉 Merged PR [#29](https://github.com/thaodt/feeds-reader/pull/29) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-5. ❌ Closed PR [#1](https://github.com/thaodt/redis-stream-bus/pull/1) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
-6. 🎉 Merged PR [#2](https://github.com/thaodt/redis-stream-bus/pull/2) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
-7. 💪 Opened PR [#1](https://github.com/thaodt/redis-stream-bus/pull/1) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
-8. 🗣 Commented on [#31](https://github.com/ezex-io/boilerplate/pull/31#issuecomment-2824590726) in [ezex-io/boilerplate](https://github.com/ezex-io/boilerplate)
-9. 💪 Opened PR [#6](https://github.com/ezex-io/ezex-kms/pull/6) in [ezex-io/ezex-kms](https://github.com/ezex-io/ezex-kms)
-10. 💪 Opened PR [#30](https://github.com/ezex-io/boilerplate/pull/30) in [ezex-io/boilerplate](https://github.com/ezex-io/boilerplate)
+1. 💪 Opened PR [#18](https://github.com/ezex-io/ezex-core/pull/18) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+2. 🎉 Merged PR [#8](https://github.com/ezex-io/redis-stream-bus/pull/8) in [ezex-io/redis-stream-bus](https://github.com/ezex-io/redis-stream-bus)
+3. 💪 Opened PR [#7](https://github.com/ezex-io/redis-stream-bus/pull/7) in [ezex-io/redis-stream-bus](https://github.com/ezex-io/redis-stream-bus)
+4. 💪 Opened PR [#3](https://github.com/ezex-io/serde-redis/pull/3) in [ezex-io/serde-redis](https://github.com/ezex-io/serde-redis)
+5. 🎉 Merged PR [#29](https://github.com/thaodt/feeds-reader/pull/29) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+6. ❌ Closed PR [#1](https://github.com/thaodt/redis-stream-bus/pull/1) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
+7. 🎉 Merged PR [#2](https://github.com/thaodt/redis-stream-bus/pull/2) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
+8. 💪 Opened PR [#1](https://github.com/thaodt/redis-stream-bus/pull/1) in [thaodt/redis-stream-bus](https://github.com/thaodt/redis-stream-bus)
+9. 🗣 Commented on [#31](https://github.com/ezex-io/boilerplate/pull/31#issuecomment-2824590726) in [ezex-io/boilerplate](https://github.com/ezex-io/boilerplate)
+10. 💪 Opened PR [#6](https://github.com/ezex-io/ezex-kms/pull/6) in [ezex-io/ezex-kms](https://github.com/ezex-io/ezex-kms)
 <!--END_SECTION:activity-->
   </p>
 </details>
