@@ -39,16 +39,16 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/ezex-io/ezex-core/issues/23) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-2. 🗣 Commented on [#1](https://github.com/ezex-io/ezex-core/issues/1#issuecomment-2889992322) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-3. 🔒 Closed issue [#1](https://github.com/ezex-io/ezex-core/issues/1) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-4. 🔒 Closed issue [#20](https://github.com/ezex-io/ezex-core/issues/20) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-5. 🎉 Merged PR [#22](https://github.com/ezex-io/ezex-core/pull/22) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-6. 💪 Opened PR [#18](https://github.com/ezex-io/ezex-core/pull/18) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-7. 🎉 Merged PR [#8](https://github.com/ezex-io/redis-stream-bus/pull/8) in [ezex-io/redis-stream-bus](https://github.com/ezex-io/redis-stream-bus)
-8. 💪 Opened PR [#7](https://github.com/ezex-io/redis-stream-bus/pull/7) in [ezex-io/redis-stream-bus](https://github.com/ezex-io/redis-stream-bus)
-9. 💪 Opened PR [#3](https://github.com/ezex-io/serde-redis/pull/3) in [ezex-io/serde-redis](https://github.com/ezex-io/serde-redis)
-10. 🎉 Merged PR [#29](https://github.com/thaodt/feeds-reader/pull/29) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+1. 💪 Opened PR [#26](https://github.com/ezex-io/ezex-core/pull/26) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+2. ❗ Opened issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+3. ❗ Opened issue [#23](https://github.com/ezex-io/ezex-core/issues/23) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+4. 🗣 Commented on [#1](https://github.com/ezex-io/ezex-core/issues/1#issuecomment-2889992322) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+5. 🔒 Closed issue [#1](https://github.com/ezex-io/ezex-core/issues/1) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+6. 🔒 Closed issue [#20](https://github.com/ezex-io/ezex-core/issues/20) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+7. 🎉 Merged PR [#22](https://github.com/ezex-io/ezex-core/pull/22) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+8. 💪 Opened PR [#18](https://github.com/ezex-io/ezex-core/pull/18) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+9. 🎉 Merged PR [#8](https://github.com/ezex-io/redis-stream-bus/pull/8) in [ezex-io/redis-stream-bus](https://github.com/ezex-io/redis-stream-bus)
+10. 💪 Opened PR [#7](https://github.com/ezex-io/redis-stream-bus/pull/7) in [ezex-io/redis-stream-bus](https://github.com/ezex-io/redis-stream-bus)
 <!--END_SECTION:activity-->
   </p>
 </details>
