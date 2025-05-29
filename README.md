@@ -39,16 +39,16 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-2. 🎉 Merged PR [#24](https://github.com/ezex-io/ezex-core/pull/24) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-3. 🗣 Commented on [#24](https://github.com/ezex-io/ezex-core/pull/24#issuecomment-2890452138) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-4. 💪 Opened PR [#26](https://github.com/ezex-io/ezex-core/pull/26) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-5. ❗ Opened issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-6. ❗ Opened issue [#23](https://github.com/ezex-io/ezex-core/issues/23) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-7. 🗣 Commented on [#1](https://github.com/ezex-io/ezex-core/issues/1#issuecomment-2889992322) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-8. 🔒 Closed issue [#1](https://github.com/ezex-io/ezex-core/issues/1) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-9. 🔒 Closed issue [#20](https://github.com/ezex-io/ezex-core/issues/20) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-10. 🎉 Merged PR [#22](https://github.com/ezex-io/ezex-core/pull/22) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+1. 💪 Opened PR [#1](https://github.com/risechain/jsonrpsee/pull/1) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
+2. 🔒 Closed issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+3. 🎉 Merged PR [#24](https://github.com/ezex-io/ezex-core/pull/24) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+4. 🗣 Commented on [#24](https://github.com/ezex-io/ezex-core/pull/24#issuecomment-2890452138) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+5. 💪 Opened PR [#26](https://github.com/ezex-io/ezex-core/pull/26) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+6. ❗ Opened issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+7. ❗ Opened issue [#23](https://github.com/ezex-io/ezex-core/issues/23) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+8. 🗣 Commented on [#1](https://github.com/ezex-io/ezex-core/issues/1#issuecomment-2889992322) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+9. 🔒 Closed issue [#1](https://github.com/ezex-io/ezex-core/issues/1) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+10. 🔒 Closed issue [#20](https://github.com/ezex-io/ezex-core/issues/20) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
 <!--END_SECTION:activity-->
   </p>
 </details>
