@@ -39,16 +39,16 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/thaodt/feeds-reader/pull/30) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-2. 🗣 Commented on [#1](https://github.com/risechain/jsonrpsee/pull/1#issuecomment-2928681679) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
-3. 💪 Opened PR [#1](https://github.com/risechain/jsonrpsee/pull/1) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
-4. 🔒 Closed issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-5. 🎉 Merged PR [#24](https://github.com/ezex-io/ezex-core/pull/24) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-6. 🗣 Commented on [#24](https://github.com/ezex-io/ezex-core/pull/24#issuecomment-2890452138) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-7. 💪 Opened PR [#26](https://github.com/ezex-io/ezex-core/pull/26) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-8. ❗ Opened issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-9. ❗ Opened issue [#23](https://github.com/ezex-io/ezex-core/issues/23) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
-10. 🗣 Commented on [#1](https://github.com/ezex-io/ezex-core/issues/1#issuecomment-2889992322) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+1. 🎉 Merged PR [#31](https://github.com/thaodt/feeds-reader/pull/31) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+2. 🎉 Merged PR [#30](https://github.com/thaodt/feeds-reader/pull/30) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+3. 🗣 Commented on [#1](https://github.com/risechain/jsonrpsee/pull/1#issuecomment-2928681679) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
+4. 💪 Opened PR [#1](https://github.com/risechain/jsonrpsee/pull/1) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
+5. 🔒 Closed issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+6. 🎉 Merged PR [#24](https://github.com/ezex-io/ezex-core/pull/24) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+7. 🗣 Commented on [#24](https://github.com/ezex-io/ezex-core/pull/24#issuecomment-2890452138) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+8. 💪 Opened PR [#26](https://github.com/ezex-io/ezex-core/pull/26) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+9. ❗ Opened issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+10. ❗ Opened issue [#23](https://github.com/ezex-io/ezex-core/issues/23) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
 <!--END_SECTION:activity-->
   </p>
 </details>
