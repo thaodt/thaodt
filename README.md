@@ -39,13 +39,13 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16958](https://github.com/paradigmxyz/reth/pull/16958) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-2. 🗣 Commented on [#16675](https://github.com/paradigmxyz/reth/pull/16675#issuecomment-2978938131) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-3. 🎉 Merged PR [#31](https://github.com/thaodt/feeds-reader/pull/31) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-4. 🎉 Merged PR [#30](https://github.com/thaodt/feeds-reader/pull/30) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-5. 🗣 Commented on [#1](https://github.com/risechain/jsonrpsee/pull/1#issuecomment-2928681679) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
-6. 💪 Opened PR [#1](https://github.com/risechain/jsonrpsee/pull/1) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
-7. 🎉 Merged PR [#24](https://github.com/ezex-io/ezex-core/pull/24) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
+1. ❗ Opened issue [#16997](https://github.com/paradigmxyz/reth/issues/16997) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+2. 💪 Opened PR [#16958](https://github.com/paradigmxyz/reth/pull/16958) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+3. 🗣 Commented on [#16675](https://github.com/paradigmxyz/reth/pull/16675#issuecomment-2978938131) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+4. 🎉 Merged PR [#31](https://github.com/thaodt/feeds-reader/pull/31) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+5. 🎉 Merged PR [#30](https://github.com/thaodt/feeds-reader/pull/30) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+6. 🗣 Commented on [#1](https://github.com/risechain/jsonrpsee/pull/1#issuecomment-2928681679) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
+7. 💪 Opened PR [#1](https://github.com/risechain/jsonrpsee/pull/1) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
 8. 🗣 Commented on [#24](https://github.com/ezex-io/ezex-core/pull/24#issuecomment-2890452138) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
 9. 💪 Opened PR [#26](https://github.com/ezex-io/ezex-core/pull/26) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
 10. ❗ Opened issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
