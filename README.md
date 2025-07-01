@@ -39,14 +39,14 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16999](https://github.com/paradigmxyz/reth/issues/16999) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-2. ❗ Opened issue [#16997](https://github.com/paradigmxyz/reth/issues/16997) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-3. 💪 Opened PR [#16958](https://github.com/paradigmxyz/reth/pull/16958) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-4. 🗣 Commented on [#16675](https://github.com/paradigmxyz/reth/pull/16675#issuecomment-2978938131) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
-5. 🎉 Merged PR [#31](https://github.com/thaodt/feeds-reader/pull/31) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-6. 🎉 Merged PR [#30](https://github.com/thaodt/feeds-reader/pull/30) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
-7. 🗣 Commented on [#1](https://github.com/risechain/jsonrpsee/pull/1#issuecomment-2928681679) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
-8. 💪 Opened PR [#1](https://github.com/risechain/jsonrpsee/pull/1) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
+1. ❗ Opened issue [#17152](https://github.com/paradigmxyz/reth/issues/17152) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+2. ❗ Opened issue [#16999](https://github.com/paradigmxyz/reth/issues/16999) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+3. ❗ Opened issue [#16997](https://github.com/paradigmxyz/reth/issues/16997) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+4. 💪 Opened PR [#16958](https://github.com/paradigmxyz/reth/pull/16958) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+5. 🗣 Commented on [#16675](https://github.com/paradigmxyz/reth/pull/16675#issuecomment-2978938131) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+6. 🎉 Merged PR [#31](https://github.com/thaodt/feeds-reader/pull/31) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+7. 🎉 Merged PR [#30](https://github.com/thaodt/feeds-reader/pull/30) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
+8. 🗣 Commented on [#1](https://github.com/risechain/jsonrpsee/pull/1#issuecomment-2928681679) in [risechain/jsonrpsee](https://github.com/risechain/jsonrpsee)
 9. 💪 Opened PR [#26](https://github.com/ezex-io/ezex-core/pull/26) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
 10. ❗ Opened issue [#25](https://github.com/ezex-io/ezex-core/issues/25) in [ezex-io/ezex-core](https://github.com/ezex-io/ezex-core)
 <!--END_SECTION:activity-->
