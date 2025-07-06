@@ -5,16 +5,12 @@
   <img src="https://profile-counter.glitch.me/thaodt/count.svg" />
 </p> -->
 
-I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/flag-icons/flags/4x3/vn.svg" alt="vn" height="25"/> , 
-love open sources. Reinvents the wheel occasionally and sometimes creates obscure stuff.
-
-I'm currently playing with embedded systems (with Rust of course), I loved disassembling and messing with these things since I was a kid, so why not dig deeper into it? 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaodt&layout=compact&theme=gotham&cache_seconds=86400)](https://github.com/thaodt/thaodt)
+I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/flag-icons/flags/4x3/vn.svg" alt="vn" height="25" width="33"/> who loves open source. I reinvent the wheel occasionally and sometimes create obscure stuff.
 
 
-<div style="display: inline_block"><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaodt&layout=compact&theme=gotham)](https://github.com/thaodt/thaodt)
+
+<div style="display: inline_block">
   <img align="center" alt="thaodt-nvim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   <img align="center" alt="thaodt-rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="center" alt="thaodt-ocaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">
@@ -29,8 +25,7 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
 
 <div>
   <a href="https://twitter.com/dreamsparkis" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ardtimeit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+  <a href="mailto:ardtimeit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## What am I up to these days?
@@ -52,17 +47,3 @@ I'm currently playing with embedded systems (with Rust of course), I loved disas
 <!--END_SECTION:activity-->
   </p>
 </details>
-
-
-<details>
-  <summary><b>👨‍💻 Stats</b></summary>
-  <p align="center">
-    <a>
-      <img align="center" src="https://gist.githubusercontent.com/thaodt/1db1d598a9e4550fa45eaede87135b3b/raw/97f3e5e943703e61b223dbc8cfa33ae9a5beb97b/github-metrics.svg"/>
-    </a>
-  </p>
-</details>
-<br>
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/thaodt/thaodt/master/assets/github-snake.svg" />
-</p>
