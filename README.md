@@ -34,7 +34,7 @@ I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/fla
     <p>
 
 <!--START_SECTION:activity-->
-1.  Unassigned issue [#6](https://github.com/radumarias/syncoxiders/issues/6) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
+1. 💪 Opened PR [#1](https://github.com/thaodt/forgejo-iac/pull/1) in [thaodt/forgejo-iac](https://github.com/thaodt/forgejo-iac)
 2.  Assigned issue [#6](https://github.com/radumarias/syncoxiders/issues/6) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
 3. 🎉 Merged PR [#32](https://github.com/thaodt/feeds-reader/pull/32) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
 4. 🗣 Commented on [#16675](https://github.com/paradigmxyz/reth/pull/16675#issuecomment-3097267577) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
