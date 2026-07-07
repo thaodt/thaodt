@@ -34,8 +34,8 @@ I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/fla
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/aimdb-dev/aimdb/issues/121#issuecomment-4889317277) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-2.  Assigned issue [#6](https://github.com/radumarias/syncoxiders/issues/6) in [radumarias/syncoxiders](https://github.com/radumarias/syncoxiders)
+1. 💪 Opened PR [#166](https://github.com/aimdb-dev/aimdb/pull/166) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+2. 🗣 Commented on [#121](https://github.com/aimdb-dev/aimdb/issues/121#issuecomment-4889317277) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
 3. 🎉 Merged PR [#32](https://github.com/thaodt/feeds-reader/pull/32) in [thaodt/feeds-reader](https://github.com/thaodt/feeds-reader)
 4. 🗣 Commented on [#16675](https://github.com/paradigmxyz/reth/pull/16675#issuecomment-3097267577) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 5. 🗣 Commented on [#16675](https://github.com/paradigmxyz/reth/pull/16675#issuecomment-3078363207) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
