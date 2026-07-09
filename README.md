@@ -34,12 +34,12 @@ I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/fla
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#171](https://github.com/aimdb-dev/aimdb/pull/171) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-2. 🗣 Commented on [#166](https://github.com/aimdb-dev/aimdb/pull/166#issuecomment-4911003403) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-3. 🎉 Merged PR [#166](https://github.com/aimdb-dev/aimdb/pull/166) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-4. 💪 Opened PR [#166](https://github.com/aimdb-dev/aimdb/pull/166) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-5. 🗣 Commented on [#121](https://github.com/aimdb-dev/aimdb/issues/121#issuecomment-4889317277) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-6. 🗣 Commented on [#16675](https://github.com/paradigmxyz/reth/pull/16675#issuecomment-3069988283) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+1. 🎉 Merged PR [#171](https://github.com/aimdb-dev/aimdb/pull/171) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+2. 💪 Opened PR [#171](https://github.com/aimdb-dev/aimdb/pull/171) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+3. 🗣 Commented on [#166](https://github.com/aimdb-dev/aimdb/pull/166#issuecomment-4911003403) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+4. 🎉 Merged PR [#166](https://github.com/aimdb-dev/aimdb/pull/166) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+5. 💪 Opened PR [#166](https://github.com/aimdb-dev/aimdb/pull/166) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+6. 🗣 Commented on [#121](https://github.com/aimdb-dev/aimdb/issues/121#issuecomment-4889317277) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
 7. 🗣 Commented on [#16675](https://github.com/paradigmxyz/reth/pull/16675#issuecomment-3066620318) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 8. ❗ Opened issue [#17273](https://github.com/paradigmxyz/reth/issues/17273) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 9. ❗ Opened issue [#17152](https://github.com/paradigmxyz/reth/issues/17152) in [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
