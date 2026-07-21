@@ -34,16 +34,16 @@ I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/fla
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/aimdb-dev/aimdb/pull/195#issuecomment-5014502496) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-2. 💪 Opened PR [#195](https://github.com/aimdb-dev/aimdb/pull/195) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-3. 🗣 Commented on [#156](https://github.com/aimdb-dev/aimdb/issues/156#issuecomment-5000572124) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-4. ℹ️ Assigned issue [#156](https://github.com/aimdb-dev/aimdb/issues/156) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-5. 🗣 Commented on [#156](https://github.com/aimdb-dev/aimdb/issues/156#issuecomment-4999516449) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-6. 🎉 Merged PR [#183](https://github.com/aimdb-dev/aimdb/pull/183) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-7. 💪 Opened PR [#183](https://github.com/aimdb-dev/aimdb/pull/183) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-8. 🗣 Commented on [#179](https://github.com/aimdb-dev/aimdb/pull/179#issuecomment-4978002945) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-9. ℹ️ Assigned issue [#178](https://github.com/aimdb-dev/aimdb/issues/178) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-10. 🎉 Merged PR [#180](https://github.com/aimdb-dev/aimdb/pull/180) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+1. ❌ Closed PR [#195](https://github.com/aimdb-dev/aimdb/pull/195) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+2. 🗣 Commented on [#195](https://github.com/aimdb-dev/aimdb/pull/195#issuecomment-5031716904) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+3. ℹ️ Labeled issue [#196](https://github.com/aimdb-dev/aimdb/issues/196) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+4. ❗ Opened issue [#196](https://github.com/aimdb-dev/aimdb/issues/196) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+5. 🗣 Commented on [#195](https://github.com/aimdb-dev/aimdb/pull/195#issuecomment-5014502496) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+6. 💪 Opened PR [#195](https://github.com/aimdb-dev/aimdb/pull/195) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+7. 🗣 Commented on [#156](https://github.com/aimdb-dev/aimdb/issues/156#issuecomment-5000572124) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+8. ℹ️ Assigned issue [#156](https://github.com/aimdb-dev/aimdb/issues/156) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+9. 🗣 Commented on [#156](https://github.com/aimdb-dev/aimdb/issues/156#issuecomment-4999516449) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+10. 🎉 Merged PR [#183](https://github.com/aimdb-dev/aimdb/pull/183) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
 <!--END_SECTION:activity-->
   </p>
 </details>
