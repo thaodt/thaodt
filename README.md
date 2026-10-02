@@ -34,8 +34,8 @@ I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/fla
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/aimdb-dev/aimdb/pull/201#issuecomment-5300828832) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
-2. 🗣 Commented on [#206](https://github.com/aimdb-dev/aimdb/issues/206#issuecomment-5248869029) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
+1. 💪 Opened PR [#31](https://github.com/peeriot/myrmic/pull/31) in [peeriot/myrmic](https://github.com/peeriot/myrmic)
+2. 💪 Opened PR [#30](https://github.com/peeriot/myrmic/pull/30) in [peeriot/myrmic](https://github.com/peeriot/myrmic)
 3. ℹ️ Assigned issue [#206](https://github.com/aimdb-dev/aimdb/issues/206) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
 4. 🗣 Commented on [#201](https://github.com/aimdb-dev/aimdb/pull/201#issuecomment-5225312811) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
 5. 🗣 Commented on [#201](https://github.com/aimdb-dev/aimdb/pull/201#issuecomment-5140834457) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
