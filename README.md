@@ -34,11 +34,11 @@ I'm a Principal Systems Engineer from <img src="https://static.dwcdn.net/css/fla
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/deepslate-labs/factories/pull/2) in [deepslate-labs/factories](https://github.com/deepslate-labs/factories)
-2. 💪 Opened PR [#1](https://github.com/deepslate-labs/factories/pull/1) in [deepslate-labs/factories](https://github.com/deepslate-labs/factories)
-3. 🎉 Merged PR [#31](https://github.com/peeriot/myrmic/pull/31) in [peeriot/myrmic](https://github.com/peeriot/myrmic)
-4. 🎉 Merged PR [#30](https://github.com/peeriot/myrmic/pull/30) in [peeriot/myrmic](https://github.com/peeriot/myrmic)
-5. 💪 Opened PR [#31](https://github.com/peeriot/myrmic/pull/31) in [peeriot/myrmic](https://github.com/peeriot/myrmic)
+1. ❗ Opened issue [#3](https://github.com/deepslate-labs/factories/issues/3) in [deepslate-labs/factories](https://github.com/deepslate-labs/factories)
+2. 💪 Opened PR [#2](https://github.com/deepslate-labs/factories/pull/2) in [deepslate-labs/factories](https://github.com/deepslate-labs/factories)
+3. 💪 Opened PR [#1](https://github.com/deepslate-labs/factories/pull/1) in [deepslate-labs/factories](https://github.com/deepslate-labs/factories)
+4. 🎉 Merged PR [#31](https://github.com/peeriot/myrmic/pull/31) in [peeriot/myrmic](https://github.com/peeriot/myrmic)
+5. 🎉 Merged PR [#30](https://github.com/peeriot/myrmic/pull/30) in [peeriot/myrmic](https://github.com/peeriot/myrmic)
 6. 💪 Opened PR [#30](https://github.com/peeriot/myrmic/pull/30) in [peeriot/myrmic](https://github.com/peeriot/myrmic)
 7. ℹ️ Labeled issue [#206](https://github.com/aimdb-dev/aimdb/issues/206) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
 8. ℹ️ Labeled issue [#206](https://github.com/aimdb-dev/aimdb/issues/206) in [aimdb-dev/aimdb](https://github.com/aimdb-dev/aimdb)
